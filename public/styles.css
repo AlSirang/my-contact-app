@@ -19,7 +19,7 @@ body {
   border-radius: 25px;
   position: relative;
   padding: 25px 15px;
-  background-color: #81ecec;
+  background-color: #ece481;
   margin: 50px 0;
   height: 200px;
   box-shadow: 0 2px 5px #ccc;
@@ -30,7 +30,7 @@ body {
   border-radius: 25px 25px 0 0;
   height: 100px;
   width: 100%;
-  background-color: #00cec9;
+  background-color: #ce7c00;
   position: absolute;
   top: 0;
   left: 0;
@@ -62,5 +62,6 @@ body {
 
 .info {
   margin: 20px 0;
-  color: #1a7e76;
+  color: #000000;
+  font-size: 1.12rem;
 }
