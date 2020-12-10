@@ -1,5 +1,5 @@
-# Getting Started with Create React App
-
+# My Contact React App
+A simple app with react. Main purpose of creating this app was to learn Components and Props in Reactjs.
 
 ## Available Scripts
 
