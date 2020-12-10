@@ -2,8 +2,7 @@ import React from "react";
 
 export default function Card() {
     return (
-        <div classNamecard>
-            <h1 className="heading">My Contacts</h1>
+        <div>
             <div className="card">
                 <div className="top">
                     <h2>Beyonce</h2>
